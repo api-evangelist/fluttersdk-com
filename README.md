@@ -66,21 +66,87 @@
 
 FlutterSDK provides a unified ecosystem for Flutter frameworks, AI, cloud, and community. It enables developers to ship applications from first line of code to global deployment on a single platform, offering tools, libraries, and services that streamline cross‑platform development and integration.
 
-**Areas:** Company
+**Areas:** AI · Cloud IDE · Backend-as-a-Service · DevOps · Flutter Development
 
 ## FlutterSDK on APIs.io
 
 Everything profiled for FlutterSDK is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fluttersdk-com/](https://apis.io/providers/fluttersdk-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [FlutterSDK API](https://apis.io/apis/fluttersdk-com/fluttersdk-com-api/) — FlutterSDK API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-08); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [FlutterSDK API Rules](https://apis.io/rules/fluttersdk-com/fluttersdk-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [FlutterSDK Domain Security](https://apis.io/security/fluttersdk-com/fluttersdk-com-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://fluttersdk.com/)
+- [Getting started](https://fluttersdk.com/dusk/getting-started/installation)
+- [API reference](https://fluttersdk.com/dusk/reference/perf-trace)
+- [Sign up](https://fluttersdk.com/register)
+- [Terms of service](https://fluttersdk.com/pages/terms)
+- [Privacy policy](https://fluttersdk.com/pages/privacy)
+- [GitHub](https://github.com/fluttersdk)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/fluttersdk-com/](https://apis.io/providers/fluttersdk-com/).
+**Kin Score 36.7** — thin · rubric 0.27.0 · scored 2026-11-09
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 33.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 34.2 |
+
+**Agent readiness 16.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fluttersdk-com/](https://apis.io/providers/fluttersdk-com/).
 
 ## How this profile is made
 
